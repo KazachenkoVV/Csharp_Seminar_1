@@ -74,3 +74,4 @@ UpgradeLog*.xml
 [Tt]emp/
 [Vv]ideo[s]/
 [Aa]ssets/
+*.editorconfig
